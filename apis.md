@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/296-8x8,-i
 x-kinRank: "8"
 x-alexaRank: "28055"
 tags: 8x8
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/8x8/master/_listings/8x8/apis.md
 specificationVersion: "0.14"
 apis: []
